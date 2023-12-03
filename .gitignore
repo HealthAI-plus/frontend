@@ -26,3 +26,6 @@ state.json
 *.sw?
 
 .vercel
+
+# Local Netlify folder
+.netlify
