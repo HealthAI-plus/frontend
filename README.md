@@ -31,7 +31,7 @@ In the current healthcare landscape, individuals face challenges in accessing ti
 View Figma protoype [here](https://www.figma.com/file/qPgYdDgCZ1vslqGorHdJKd/Stutern-Health-AI?type=design&node-id=0%3A1&mode=design&t=CMpgVefsccRjN5cn-1)
 
 ## DEPLOYED LINK
-Visit HealthAI Plus [here](https://healthbotai.netlify.app/)
+Visit HealthAI Plus [here](https://health-aibot.netlify.app)
 
 ### PITCHING VIDEO
 Watch pitching video [here](https://youtu.be/ewux0i5fIsA)
